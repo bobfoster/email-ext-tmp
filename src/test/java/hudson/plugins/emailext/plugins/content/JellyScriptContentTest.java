@@ -174,7 +174,7 @@ public class JellyScriptContentTest
                             }
                         });
                     }
-
+                    @Override
                     public String getUser() {
                         return "Kohsuke Kawaguchi";
                     }
